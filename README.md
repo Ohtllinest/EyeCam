@@ -1,6 +1,8 @@
 # EyeCam
 My first python project. 
 
+-----------------------------------------------------
+
 git clone https://github.com/fuckwbored/EyeCam 
 
 cd EyeCam
