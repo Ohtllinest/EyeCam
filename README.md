@@ -1,7 +1,7 @@
 # EyeCam
 My first python project. 
 
-It is easy Camera Parser
+EyeCam - it is camera parser based on python3. C
 
 -----------------------------------------------------
 
