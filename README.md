@@ -1,6 +1,8 @@
 # EyeCam
 My first python project. 
 
+It is easy Camera Parser
+
 -----------------------------------------------------
 
 git clone https://github.com/fuckwbored/EyeCam 
