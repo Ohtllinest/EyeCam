@@ -3,7 +3,7 @@
 
 My first python project. 
 
-EyeCam - it is camera parser based on python3. C
+EyeCam - it is network camera IPGiver based on python3. C
 
 -----------------------------------------------------
 
