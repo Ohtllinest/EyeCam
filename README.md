@@ -19,7 +19,8 @@ python3 EyeCam.py
 
 # About Me
 
+Tg - t.me/opostal1
 
 https://www.donationalerts.com/r/rytnux - support me
 
-by Opostal 
+
