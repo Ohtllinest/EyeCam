@@ -6,9 +6,9 @@ My first python project.
 EyeCam - it is network camera IPGiver based on python3. 
 
 -----------------------------------------------------
-#Install 
+# Install 
 
-pip install colorama
+pip install termcolor
 
 git clone https://github.com/fuckwbored/EyeCam 
 
@@ -17,7 +17,7 @@ cd EyeCam
 python3 EyeCam.py
 
 
-#About Me
+# About Me
 
 
 https://www.donationalerts.com/r/rytnux - support me
