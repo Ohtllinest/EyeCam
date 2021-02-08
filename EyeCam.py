@@ -2,7 +2,6 @@ import os
 import time
 os.system('clear')
 
-from termcolor import colored
 print(f"""
 
 
